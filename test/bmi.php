@@ -17,6 +17,8 @@ $bmi->setHeight(170)->setWeight(100);
 
 $result = $bmi->calculate();
 
+$res = $result * 10000;
+
 echo "<pre>";
-print_r($result * 10000);
+print_r(number_format($res, 2));
 echo "</pre>";
