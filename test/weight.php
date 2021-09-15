@@ -14,7 +14,7 @@ use nguyenanhung\Utils\BMI\Weight;
 
 $wi = new Weight();
 
-$wi->setBmiIndex(1);
+$wi->setBmiIndex(34);
 
 echo "<pre>";
 print_r($wi->calculateWeight());
