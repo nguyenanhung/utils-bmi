@@ -1,4 +1,10 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/utils-bmi/v)](https://packagist.org/packages/nguyenanhung/utils-bmi) [![Total Downloads](http://poser.pugx.org/nguyenanhung/utils-bmi/downloads)](https://packagist.org/packages/nguyenanhung/utils-bmi) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/utils-bmi/v/unstable)](https://packagist.org/packages/nguyenanhung/utils-bmi) [![License](http://poser.pugx.org/nguyenanhung/utils-bmi/license)](https://packagist.org/packages/nguyenanhung/utils-bmi) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/utils-bmi/require/php)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/utils-bmi.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/utils-bmi.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/utils-bmi.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/utils-bmi.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/utils-bmi.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/utils-bmi/php)](https://packagist.org/packages/nguyenanhung/utils-bmi)
+
 
 # Utils: BMI
 
